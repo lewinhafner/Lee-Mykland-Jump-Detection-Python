@@ -13,7 +13,7 @@ Takes a DataFrame as an input and inserts the following columns:
 The timing, magnitude and direction of detected jumps can therefore be recovered.
 
 ### Prerequisites
-To execute the code locally, ensure that (1) a Python interpreter is installed on the machine and (2) the required dependencies (Pandas, NumPy) are installed in the same environment.
+To execute the code locally, ensure that (1) a Python interpreter is installed on the machine, (2) the Jupyter package and required dependencies (Pandas, NumPy) are installed in the same environment and (3) the Jupyter extension in VS Code is installed.
 
 Install the dependencies using `pip install pandas numpy`
 
